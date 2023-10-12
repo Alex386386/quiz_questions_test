@@ -10,11 +10,10 @@ Python 3.8, FastApi 0.78.0, Docker, Docker-compose
 
 ### Установка, Как запустить проект:
 
-https://github.com/Alex386386/quiz_questions_test
 Клонировать репозиторий и перейти в него в командной строке:
 
 ```
-git clone git@github.com:Alex386386/quiz_questions_test
+git clone git@github.com:Alex386386/quiz_questions_test.git
 ```
 
 ```
